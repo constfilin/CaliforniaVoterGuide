@@ -1,0 +1,38 @@
+[
+  {
+    "id": "840a974a-5fd4-4ed9-9966-536bfa97b637",
+    "data": [
+      {
+        "text": "Nice chatting with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525759462
+  },
+  {
+    "id": "cce86d92-ccd0-4e2d-9d35-f8238d83e74b",
+    "data": [
+      {
+        "text": "See ya later!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525759462
+  },
+  {
+    "id": "45dbf11a-6860-4622-9891-c17c54d2a805",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525759462
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "942c45ae-31e0-4ceb-8edb-bd4e6077ddca",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "welcome",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hello from California Voter Information Guide. What proposition would you like to know about? You can say the proposition number or ask me for a list of propositions.",
+            "Hi from California Voter Information Guide. I can tell you about propositions in front of California voters. You can say the proposition number or ask me for a list of propositions."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525760907,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

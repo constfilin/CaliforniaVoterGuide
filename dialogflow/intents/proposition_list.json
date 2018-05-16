@@ -1,0 +1,44 @@
+{
+  "id": "44c4567c-78a7-45a9-a7db-29c73f67e190",
+  "name": "proposition_list",
+  "auto": true,
+  "contexts": [
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "welcome",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "skype",
+          "lang": "en",
+          "speech": "There are propositions 68, 69, 70, 71 and 72"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are propositions 68, 69, 70, 71 and 72"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525807699,
+  "fallbackIntent": false,
+  "events": []
+}

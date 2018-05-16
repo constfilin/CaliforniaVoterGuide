@@ -1,0 +1,45 @@
+{
+  "id": "19f8a125-0cde-44b9-8bf6-8083602b2e8d",
+  "name": "proposition_summary",
+  "auto": true,
+  "contexts": [
+    "proposition",
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "proposition",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3abfcb8d-fbf8-45be-bbcb-57c9dc8e0114",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525802650,
+  "fallbackIntent": false,
+  "events": []
+}

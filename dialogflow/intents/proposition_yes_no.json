@@ -1,0 +1,60 @@
+{
+  "id": "94fa55a2-a97d-4670-8fff-c9413ce5e744",
+  "name": "proposition_yes_no",
+  "auto": true,
+  "contexts": [
+    "proposition",
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "proposition",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "405f67a6-17bb-459f-9ff4-4a320c197730",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "2bede54d-16cd-4862-8aee-0f8e986e2cd6",
+          "required": true,
+          "dataType": "@yes_or_no",
+          "name": "yes_or_no",
+          "value": "$yes_or_no",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you like to know what vote \"Yes\" means or what vote \"No\" means?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525841318,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "3d8b3fc8-3c87-469c-9e06-a46514a6e478",
+  "name": "proposition",
+  "auto": true,
+  "contexts": [
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "proposition",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "90f2e171-a4cd-4612-ac96-8fd512c8343c",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What proposition would you like to know about?"
+            },
+            {
+              "lang": "en",
+              "value": "Which proposition do I tell you about?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525753658,
+  "fallbackIntent": false,
+  "events": []
+}

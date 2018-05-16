@@ -1,0 +1,56 @@
+[
+  {
+    "id": "504df73a-9cb6-4cc1-8171-a6b6d1cd39a1",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "alias": "for_or_against",
+        "meta": "@for_or_against",
+        "userDefined": false
+      },
+      {
+        "text": " proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525808038
+  },
+  {
+    "id": "a7115d78-62d8-4c07-9997-9b49e07c95dd",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "alias": "for_or_against",
+        "meta": "@for_or_against",
+        "userDefined": true
+      },
+      {
+        "text": " this proposition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808038
+  }
+]

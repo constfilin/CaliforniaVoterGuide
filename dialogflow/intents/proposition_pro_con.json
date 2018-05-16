@@ -1,0 +1,60 @@
+{
+  "id": "09f5cdb8-cac3-41dd-93d3-e72472936713",
+  "name": "proposition_pro_con",
+  "auto": true,
+  "contexts": [
+    "proposition",
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "proposition",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "463599ce-00eb-4b61-95f9-9d03d912d861",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "76401412-07fc-4604-ae06-75e8e19cb834",
+          "required": true,
+          "dataType": "@pro_or_con",
+          "name": "pro_or_con",
+          "value": "$pro_or_con",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you like to know pros or cons of this proposition?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525841248,
+  "fallbackIntent": false,
+  "events": []
+}

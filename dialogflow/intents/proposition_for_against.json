@@ -1,0 +1,60 @@
+{
+  "id": "39237c54-11f7-4b96-8b32-6ecc993add1c",
+  "name": "proposition_for_against",
+  "auto": true,
+  "contexts": [
+    "proposition",
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "proposition",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "72b64fb0-7442-4499-b3a3-62d6da9cfecd",
+          "required": true,
+          "dataType": "@for_or_against",
+          "name": "for_or_against",
+          "value": "$for_or_against",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you like to know who is \"for\" or who is \"against\" this proposition?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "42a18c0f-6d45-4d75-bbdc-0e7a08165c71",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525809577,
+  "fallbackIntent": false,
+  "events": []
+}

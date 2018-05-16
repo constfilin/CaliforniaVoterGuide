@@ -1,0 +1,96 @@
+[
+  {
+    "id": "50fee88a-49de-4957-a90c-6430070bd5f0",
+    "data": [
+      {
+        "text": "Tell me more about proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525802650
+  },
+  {
+    "id": "7e966bc0-c9b6-4655-bec0-4bf66f9bcd18",
+    "data": [
+      {
+        "text": "Tell me more about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525802650
+  },
+  {
+    "id": "b1e8ed56-827f-4695-a9f7-a10b29ac0188",
+    "data": [
+      {
+        "text": "Summarize proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " for me, please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525802650
+  },
+  {
+    "id": "02171eea-ee85-4d6e-b221-1a1122ad20b0",
+    "data": [
+      {
+        "text": "Summarize this proposition for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525802650
+  },
+  {
+    "id": "482feb68-3e33-4e2f-af76-b8ed50f59ecb",
+    "data": [
+      {
+        "text": "Give me the summary of proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525802650
+  },
+  {
+    "id": "467002b1-ddc2-4e2c-8e87-1504e7c5e1ac",
+    "data": [
+      {
+        "text": "Give me its summary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525802650
+  }
+]

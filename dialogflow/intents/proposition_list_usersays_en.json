@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6eb269e3-d546-4fe1-a0a1-4769449384c8",
+    "data": [
+      {
+        "text": "What are the propositions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525761069
+  },
+  {
+    "id": "adb276c0-f70c-4dc9-b2a9-bb97c55718ee",
+    "data": [
+      {
+        "text": "Give me all the propositions for the voters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525761069
+  },
+  {
+    "id": "730faae4-9d82-49b8-b01c-9988e1138476",
+    "data": [
+      {
+        "text": "Give me a list of propositions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525761069
+  }
+]

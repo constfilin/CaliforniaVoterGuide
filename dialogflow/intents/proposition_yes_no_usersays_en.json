@@ -1,0 +1,186 @@
+[
+  {
+    "id": "d2edfc05-7768-4e3d-8914-e94f3057cba0",
+    "data": [
+      {
+        "text": "If I vote \"",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": "\" on proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ", then then happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  },
+  {
+    "id": "e8d5c217-7dd0-4b2e-8fb7-6dd1f8ceb14c",
+    "data": [
+      {
+        "text": "If I vote \"",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": "\" on this proposition, what happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  },
+  {
+    "id": "080f7537-59dd-4210-b6b4-2420769a8f4b",
+    "data": [
+      {
+        "text": "If I vote \"",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": "\", then what happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  },
+  {
+    "id": "e5a07331-b49c-4612-a98b-4438d87ad176",
+    "data": [
+      {
+        "text": "What does it mean to vote \"",
+        "userDefined": false
+      },
+      {
+        "text": "Yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": "\" on proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  },
+  {
+    "id": "8a8e80c6-6ed5-4172-83d1-28b22273d9e4",
+    "data": [
+      {
+        "text": "What does it mean to vote \"",
+        "userDefined": false
+      },
+      {
+        "text": "Yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": "\" on it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  },
+  {
+    "id": "9b564c20-48c8-4043-a597-ded5cb2e42b0",
+    "data": [
+      {
+        "text": "What does \"",
+        "userDefined": false
+      },
+      {
+        "text": "Yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": " vote mean on proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  },
+  {
+    "id": "959ec47b-3395-4ca5-9476-bb197ebbed2e",
+    "data": [
+      {
+        "text": "What does \"",
+        "userDefined": false
+      },
+      {
+        "text": "Yes",
+        "alias": "yes_or_no",
+        "meta": "@yes_or_no",
+        "userDefined": true
+      },
+      {
+        "text": "\" vote mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525808245
+  }
+]

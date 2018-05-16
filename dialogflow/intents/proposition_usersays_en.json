@@ -1,0 +1,82 @@
+[
+  {
+    "id": "f6032bc4-5471-4c1e-a458-31eac4a6e3bc",
+    "data": [
+      {
+        "text": "Proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525753658
+  },
+  {
+    "id": "7db20cda-2594-49dd-bc46-662458022f40",
+    "data": [
+      {
+        "text": "What do you think about proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525753658
+  },
+  {
+    "id": "8978ba47-ab48-4474-bac3-7baf7c7bc12b",
+    "data": [
+      {
+        "text": "What proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " is about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525753658
+  },
+  {
+    "id": "240650e2-6d04-4555-bd02-8022f1459e8a",
+    "data": [
+      {
+        "text": "Tell me about proposition ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525753658
+  }
+]

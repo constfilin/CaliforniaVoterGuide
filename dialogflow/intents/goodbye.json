@@ -1,0 +1,35 @@
+{
+  "id": "151bb6f4-3376-47ec-85c3-d3c64c3adebd",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [
+    "proposition",
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Come to talk to me again sometimes.",
+            "Goodbye",
+            "Nice chatting with you"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525759462,
+  "fallbackIntent": false,
+  "events": []
+}
