@@ -1,5 +1,5 @@
 # California Voter Guide
-This is a google assistant app using NLP to understand voice queries and provide info about propositions about California June 5 2018 elections. You can ask questions like:
+This is a google assistant app using NLP to understand voice queries and provide info about propositions about [California June 5 2018 elections](http://voterguide.sos.ca.gov/). You can ask questions like:
 * Tell me about promosition 69
 * Give me list of propositions
 * Who is for proposition 68?
@@ -14,4 +14,3 @@ TODO: integrate this app with things like:
 * Slack
 * Viber
 * Twitter
-
