@@ -6,7 +6,7 @@ This is a google assistant app using NLP to understand voice queries and provide
 * Waht are the cons of proposition 70
 * ... and many others.
 
-The app was created with the help of [Google Dialog Flow](https://developers.google.com/actions/dialogflow/), a little big of NodeJS and [Google Firebase](https://firebase.google.com/). It helped to prove "beyond the reasonable doubt" that Google DialogFlow works, can underatand spoken and written texts, extract specific chunks ot of it and pass them to code for execution.
+The app was created with the help of [Google Dialog Flow](https://developers.google.com/actions/dialogflow/), a little bit of NodeJS and [Google Firebase](https://firebase.google.com/). It helped to prove "beyond the reasonable doubt" that Google DialogFlow works, can understand spoken and written texts, extract specific chunks out of it and pass them to code for execution.
 
 TODO: integrate this app with things like:
 * Microsoft Skype
