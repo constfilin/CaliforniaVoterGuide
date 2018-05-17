@@ -145,7 +145,7 @@ function handle_proposition_request( conv, args, property_name ) {
 	    propositions[conv.data.proposition].say_property(conv,property_name);
 	}
 	else {
-	    conv.ask("Please specifiy the proposition number");
+	    conv.ask("Please specify the proposition number");
 	}
     }
     else if( propositions.hasOwnProperty(Number(args.number)) ) {
